@@ -15,3 +15,5 @@ Go through the <a href="https://developers.google.com/people/quickstart/js">Java
 ```
 node index.js
 ```
+
+Open a browser to `localhost:3000`
